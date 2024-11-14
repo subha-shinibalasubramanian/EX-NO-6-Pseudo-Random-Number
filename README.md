@@ -3,9 +3,16 @@
 
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
+# ALOGRITHM:
+1. Including all necessary Header files.    
+2. Input the number of random numbers and range.  
+3. Seed the random number generator.     
+4. Initialize a loop.    
+5. Generate the Random Numbers.   
+6. Print the random numbers.   
 # PROGRAM:
 ```
-NAME: SUBHASHINI.B
+DEVELOPED BY : SUBHASHINI.B
 REG NO: 212223040211
 
 #include <stdio.h>
